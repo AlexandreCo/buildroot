@@ -13,3 +13,4 @@
 *.rej
 *~
 *.pyc
+board/raspberrypi/black/rootfs-overlay/root/notsync/
